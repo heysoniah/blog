@@ -7,6 +7,9 @@
   pointer-events: none;
 }
 
+.headerBar{background:#eee;padding:10px 20px;text-align:left;font-weight:bold;font-size:30px;}
+*{list-style: none;padding:0;margin:0;}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
